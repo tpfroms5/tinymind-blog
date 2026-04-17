@@ -3,6 +3,7 @@ title: ESP-IDF 新建工程时多了 `.devcontainer` 和 `.clangd`？
 date: 2026-04-17T03:10:25.966Z
 ---
 
+
 我一开始也懵了
 
 我刚开始用 ESP-IDF 的时候，遇到一个很奇怪的问题：
@@ -14,6 +15,7 @@ date: 2026-04-17T03:10:25.966Z
 .devcontainer/
 .clangd
 ```
+![image.png](https://raw.githubusercontent.com/tpfroms5/tinymind-blog/main/assets/images/2026-04-17/1776395460497.png)
 
 当时我第一反应是：
 **是不是我环境装错了？？？**
